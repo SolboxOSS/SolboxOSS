@@ -1,13 +1,8 @@
 # Table of contents
 
-* [Welcome Solbox OSS(Open Source Software)!](README.md)
+* [About](README.md)
 
-## Solbox OSS
+## Solbox OSS Projects
 
-* [Vision and Values](solbox-oss/vision-and-values.md)
-* [Meet the Team!](solbox-oss/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [sproxy](solbox-oss-projects/sproxy.md)
+* [Solplayer](solbox-oss-projects/solplayer.md)

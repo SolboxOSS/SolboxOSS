@@ -2,8 +2,12 @@
 coverY: 0
 ---
 
-# Welcome Solbox OSS(Open Source Software)!
+# About
 
-## Welcome aboard!
+솔박스에서 공개하는 오픈소스소프트웨어(Open Source Software) 프로젝트를 소개합니다.
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+
+
+오픈소스소프트웨어를 등록한 솔박스 구성원은 다음 가이드를 참고하여 프로젝트 소개 페이지를 등록하고 운영하시길 바랍니다.
+
+* 오픈소스소프트웨어 프로젝트페이지 등록하기.    &#x20;
