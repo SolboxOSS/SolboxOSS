@@ -7,3 +7,6 @@ coverY: 0
 # Solplayer
 
 초저지연 라이브 스트리밍을 지원하는 Media Player 입니다.&#x20;
+
+* MPEG-DASH CMAF를 지원합니다. &#x20;
+
